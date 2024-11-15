@@ -80,16 +80,19 @@ table td img {
 }
 
 .resultado {
+    background-color: defout;
     padding: 8px;
 }
 
 
 .aprovado {
     background-color: green;
+    color: #fff;
 }
 
 .reprovado {
     background-color: red;
+    color: #fff;
 }
 
 
